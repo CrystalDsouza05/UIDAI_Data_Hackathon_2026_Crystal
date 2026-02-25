@@ -149,6 +149,16 @@ The model includes:
 
 This supports clean filtering and structured analysis.
 
+## 📁 Repository Structure
+```
+UIDAI-Hackathon-2026/
+│
+├── Crystal Project Report- UIDAI Hackathon 2026.pdf
+├── UIDAI_Dashboard.pdf
+├── DAX_Measures.xlsx
+└── README.md
+
+```
 
 ## 🛠 Tools and Skills Demonstrated
 
